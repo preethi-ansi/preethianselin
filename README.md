@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Preethi Anselin</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer with a Zeal for Learning</h3>
 
 - 🔭 I’m currently working on **Book Store Website**
 
